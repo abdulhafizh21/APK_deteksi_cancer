@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Asclepius</string>
+    <string name="camera_x">CameraX</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="analyze">Analyze</string>
+    <string name="result">Hasil Analisis</string>
+
+    <string name="image_classifier_failed">Image classifier failed to initialize. See error logs for details</string>
+    <string name="empty_image_warning">Silakan masukkan file gambar terlebih dahulu.</string>
+
+    <string name="sample_image">gambar sampel</string>
+    <string name="analysis_history">Histori Analisis</string>
+    <string name="news">Berita</string>
+    <string name="history">riwayat</string>
+    <string name="title_news">judul berita</string>
+    <string name="description">deskripsi</string>
+    <string name="news_image">foto berita</string>
+    <string name="empty_message">Data masih kosong</string>
+</resources>
